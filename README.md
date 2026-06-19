@@ -309,7 +309,11 @@ After completing this project you will understand:
 - IEEE Std 1364-2001 — Verilog Hardware Description Language
 
 
-<img width="1909" height="880" alt="image" src="https://github.com/user-attachments/assets/aacfa510-778e-4ece-9374-187331e305b8" />
+## Author
+
+**Seshu** | VLSI Design Portfolio | GitHub: [@Github](https://github.com/seshu-8)
+
+Linkedin:[@Linkedin](https://www.linkedin.com/in/seshu-babu-konijeti-74968b2b9?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
 ---
