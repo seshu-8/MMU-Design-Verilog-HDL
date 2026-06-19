@@ -308,6 +308,10 @@ After completing this project you will understand:
 - ARM Architecture Reference Manual — Memory Management
 - IEEE Std 1364-2001 — Verilog Hardware Description Language
 
+
+<img width="1909" height="880" alt="image" src="https://github.com/user-attachments/assets/aacfa510-778e-4ece-9374-187331e305b8" />
+
+
 ---
 
 *Built as a VLSI course project. Simulation-verified. GitHub-ready.*
